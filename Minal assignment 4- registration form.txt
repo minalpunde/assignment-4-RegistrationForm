@@ -11,16 +11,16 @@
         <h2> Registration Form </h2>
     
         <td> First name: </td>
-        <td> <input type=" first name " </td><br>
+        <td> <input type=" first name "> </td><br>
 
         <td> Last name:</td>
-        <td> <input type=" last name "</td><br>
+        <td> <input type=" last name "></td><br>
 
         <td>Username:</td>
-        <td> <input type=" usernmae"</td><br>
+        <td> <input type=" usernmae"></td><br>
 
         <td> City:</td>
-        <td> <input type="city"</td><br>
+        <td> <input type="city"></td><br>
 
         <td> State </td>
         <td>  
@@ -33,10 +33,13 @@
         </td><br>
 
         <td>Zip:</td>
-        <td><inpur type=" zip "</td><br>
+           
+            <input id="zip" name="zip" type="name"><br>
+            
+            
 
-       <td> Agree to teame and coonditions </td>
-       <td> <input type="checkbox" </td><br>
+            <td> Agree to teame and coonditions </td>
+             <td> <input type="checkbox"> </td><br>
 
        <td align="center"> <input type="submit"> </td>
     
